@@ -11,6 +11,5 @@ Run the Application – Execute app.py to generate music sequences with pre-trai
 Why Use MelodyMind?
 While proprietary APIs like OpenAI's offer convenient solutions for AI-driven music generation, MelodyMind provides a cost-effective, flexible, and transparent alternative. By eliminating subscription fees and offering complete control over customization and privacy, this project empowers users to compose music that aligns with their unique creative vision.
 
-🪪 License
-This project is distributed under the MIT License. See the LICENSE file for more details.
+
 
